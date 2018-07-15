@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">wizard</string>
+
+    <!--Wizard-->
+    <string name="w_pular">Jump</string>
+    <string name="w_proximo">Next</string>
+    <string name="w_anterior">Back</string>
+    <string name="w_terminar">Finish</string>
+
+    <!--null-->
+    <string name="w_title">Hello</string>
+    <string name="w_description">Wellcome!</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">wizard</string>
+
+    <!--Wizard-->
+    <string name="w_pular">Pular</string>
+    <string name="w_proximo">Proximo</string>
+    <string name="w_anterior">Anterior</string>
+    <string name="w_terminar">Terminar</string>
+
+    <!--null-->
+    <string name="w_title">Olá</string>
+    <string name="w_description">Bem vindo!</string>
+
+</resources>
